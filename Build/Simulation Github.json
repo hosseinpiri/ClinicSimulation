@@ -1,0 +1,16 @@
+{
+"companyName": "UBC Sauder School",
+"productName": "Clinic Simulation",
+"productVersion": "0.1",
+"dataUrl": "Simulation Github.data.unityweb",
+"wasmCodeUrl": "Simulation Github.wasm.code.unityweb",
+"wasmFrameworkUrl": "Simulation Github.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.5f1"
+}
